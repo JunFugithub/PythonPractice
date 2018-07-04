@@ -1,5 +1,6 @@
 ## Python 练习册，每天一个小程序 ##
 
+### 摘抄自作者，conda环境名imageprocess
 
 #### 说明： ####
 
